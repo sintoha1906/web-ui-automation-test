@@ -1,0 +1,13 @@
+
+# Gradle cache
+.gradle/
+
+# Gradle build outputs (all project levels)
+**/build/
+
+# Local environment files
+*.log
+
+# IDE files
+.idea/
+.vscode/
